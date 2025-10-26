@@ -1,0 +1,5 @@
+ .images{
+    border: 2px dark;
+    flex-direction: row;
+    flex-wrap:wrap-reverse;
+ }
